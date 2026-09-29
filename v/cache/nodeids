@@ -1,0 +1,12 @@
+[
+  "tests/test_api.py::test_backtest_endpoint",
+  "tests/test_api.py::test_forecast_endpoints",
+  "tests/test_api.py::test_health_endpoint",
+  "tests/test_api.py::test_models_registry_endpoint",
+  "tests/test_api.py::test_weights_map_endpoint",
+  "tests/test_data_leakage.py::test_chronological_split_prevents_temporal_leakage",
+  "tests/test_data_leakage.py::test_lagged_observational_features_use_past_values_only",
+  "tests/test_models_and_fusion.py::test_dynamic_weight_normalization_and_non_negativity",
+  "tests/test_models_and_fusion.py::test_forecast_fusion_engine_combines_sources",
+  "tests/test_models_and_fusion.py::test_weather_regime_detection"
+]

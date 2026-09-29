@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 d50fa33ac78bb4f1898bebde890ea09d390bd21c rishigesh <rishigeshkrishnasamy412@gmail.com> 1790692052 +0530	commit (initial): Initial commit: Hybrid AI-NWP Weather Forecast Blending System
+d50fa33ac78bb4f1898bebde890ea09d390bd21c 0000000000000000000000000000000000000000 rishigesh <rishigeshkrishnasamy412@gmail.com> 1790692057 +0530	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 d50fa33ac78bb4f1898bebde890ea09d390bd21c rishigesh <rishigeshkrishnasamy412@gmail.com> 1790692057 +0530	Branch: renamed refs/heads/master to refs/heads/main
+d50fa33ac78bb4f1898bebde890ea09d390bd21c 150ef6f95e73c8dccc22eafb9fabb5b87bb2ba21 rishigesh <rishigeshkrishnasamy412@gmail.com> 1790693695 +0530	commit (amend): Initial commit: Hybrid AI-NWP Weather Forecast Blending System
+150ef6f95e73c8dccc22eafb9fabb5b87bb2ba21 79b786349499f33382c85b8445b9e52488e8e471 rishigesh <rishigeshkrishnasamy412@gmail.com> 1790693908 +0530	commit (amend): Initial commit: Hybrid AI-NWP Weather Forecast Blending System
+79b786349499f33382c85b8445b9e52488e8e471 b562e71c0ad8d3aa584d3f58e949edf7a4b09060 rishigesh <rishigeshkrishnasamy412@gmail.com> 1790697414 +0530	commit: fix(vercel): optimize bundle size and configure single ASGI entrypoint for Vercel serverless deployment
